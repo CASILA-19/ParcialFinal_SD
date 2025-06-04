@@ -40,6 +40,7 @@ ParcialFinal/
    ```bash
    docker-compose up --build
    ```
+![Captura de pantalla 2025-06-03 190423](https://github.com/user-attachments/assets/ee49f818-b308-4463-9e42-2f7f4da659b9)
 
 3. Accede a la API:
    - Abre tu navegador y ve a `http://localhost/api/health` para verificar que la API está funcionando.
